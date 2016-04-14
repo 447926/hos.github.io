@@ -9,4 +9,4 @@ Tyto stránky by měly sloužit jako informační a propagační profil jednoho 
 
 ### Contact me
 
-[email@domain.com](marketa-horakova@centrum.cz)
+[marketa-horakova@centrum.cz](marketa-horakova@centrum.cz)
