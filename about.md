@@ -12,8 +12,8 @@ O projektu vytváření tohoto webu v několika bodech:
 3. **Název webu:** Helfertovo orchestrální sdružení
 
 4. **Zásadní webové zdroje:**
-http://www.ankst.cz/008/stanovy.aspx
-http://www.kodk.cz/orchestr/
+* http://www.ankst.cz/008/stanovy.aspx
+* http://www.kodk.cz/orchestr/
 http://www.ceskesbory.cz/index.php
 http://operaplus.cz/z-janackova-odpurce-se-stal-jeho-propagatorem/
 http://encyklopedie.brna.cz/home-mmb/?acc=profil_osobnosti&load=100
