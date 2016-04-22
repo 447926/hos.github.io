@@ -12,10 +12,10 @@ O projektu vytváření tohoto webu v několika bodech:
 3. **Název webu:** Helfertovo orchestrální sdružení
 
 4. **Zásadní webové zdroje:** @cr
-http://www.ankst.cz/008/stanovy.aspx @cr
-http://www.kodk.cz/orchestr/
-http://www.ceskesbory.cz/index.php
-http://operaplus.cz/z-janackova-odpurce-se-stal-jeho-propagatorem/
+> * http://www.ankst.cz/008/stanovy.aspx @cr
+> * http://www.kodk.cz/orchestr/
+> * http://www.ceskesbory.cz/index.php
+> * http://operaplus.cz/z-janackova-odpurce-se-stal-jeho-propagatorem/
 http://encyklopedie.brna.cz/home-mmb/?acc=profil_osobnosti&load=100
 https://cs.wikipedia.org/wiki/Vladim%C3%ADr_Helfert
 http://is.muni.cz/th/361629/ff_b/Bakalarska_diplomova_prace.pdf
