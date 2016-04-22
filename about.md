@@ -11,24 +11,24 @@ O projektu vytváření tohoto webu v několika bodech:
 
 3. **Název webu:** Helfertovo orchestrální sdružení
 
-4. **Zásadní webové zdroje:** @cr
-> * http://www.ankst.cz/008/stanovy.aspx @cr
+4. **Zásadní webové zdroje:**
+> * http://www.ankst.cz/008/stanovy.aspx
 > * http://www.kodk.cz/orchestr/
 > * http://www.ceskesbory.cz/index.php
 > * http://operaplus.cz/z-janackova-odpurce-se-stal-jeho-propagatorem/
-http://encyklopedie.brna.cz/home-mmb/?acc=profil_osobnosti&load=100
-https://cs.wikipedia.org/wiki/Vladim%C3%ADr_Helfert
-http://is.muni.cz/th/361629/ff_b/Bakalarska_diplomova_prace.pdf
-http://is.muni.cz/th/80520/pedf_m/diplomka.pdf
+> * http://encyklopedie.brna.cz/home-mmb/?acc=profil_osobnosti&load=100
+> * https://cs.wikipedia.org/wiki/Vladim%C3%ADr_Helfert
+> * http://is.muni.cz/th/361629/ff_b/Bakalarska_diplomova_prace.pdf
+> * http://is.muni.cz/th/80520/pedf_m/diplomka.pdf
 
 
 5. **Zásadní newebové zdroje:**
-PROKOP, Z. *Helfertovo orchestrální sdružení 1906 – 2006.* 1. vyd. Brno: MSD, 2006, 19 s. ISBN 80-86633-49-7.
-HRUBÝ, A. *Helfert a Orchestrální sdružení očima pamětníka.* Opus musicum, 1975, č. 10.
-HOLUBOVÁ, E. - FUKAČ, J. *Helfertův odkaz a nutnost jeho realizace.* Opus musicum, 1975, č. 10
-KRÁL, L. *Kronika Helfertova orchestrálního sdružení v Brně I. – V.  svazek, 1903 – 1976.*
-VRAŠTILOVÁ, T. *Vladimír Helfert tvůrce profilu Orchestrálního sdružení v Brně.* Opus musicum, 1975, č. 10.
-dalším zdrojem nám budou ústní sdělení členů souboru
+> * PROKOP, Z. *Helfertovo orchestrální sdružení 1906 – 2006.* 1. vyd. Brno: MSD, 2006, 19 s. ISBN 80-86633-49-7.
+> * HRUBÝ, A. *Helfert a Orchestrální sdružení očima pamětníka.* Opus musicum, 1975, č. 10.
+> * HOLUBOVÁ, E. - FUKAČ, J. *Helfertův odkaz a nutnost jeho realizace.* Opus musicum, 1975, č. 10
+> * KRÁL, L. *Kronika Helfertova orchestrálního sdružení v Brně I. – V.  svazek, 1903 – 1976.*
+> * VRAŠTILOVÁ, T. *Vladimír Helfert tvůrce profilu Orchestrálního sdružení v Brně.* Opus musicum, 1975, č. 10.
+> * dalším zdrojem nám budou ústní sdělení členů souboru
 
 6. **Multimédia:** K tomuto tématu moc multimédií k dohledání není. Ale mohu poskytnout vlastní fotky, videa a nahrávky.
 
