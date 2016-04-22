@@ -16,11 +16,11 @@ permalink: /about/
 * http://www.ankst.cz/008/stanovy.aspx
 * http://www.kodk.cz/orchestr/
 * http://www.ceskesbory.cz/index.php
-http://operaplus.cz/z-janackova-odpurce-se-stal-jeho-propagatorem/
-http://encyklopedie.brna.cz/home-mmb/?acc=profil_osobnosti&load=100
-https://cs.wikipedia.org/wiki/Vladim%C3%ADr_Helfert
-http://is.muni.cz/th/361629/ff_b/Bakalarska_diplomova_prace.pdf
-http://is.muni.cz/th/80520/pedf_m/diplomka.pdf
+* http://operaplus.cz/z-janackova-odpurce-se-stal-jeho-propagatorem/
+* http://encyklopedie.brna.cz/home-mmb/?acc=profil_osobnosti&load=100
+* https://cs.wikipedia.org/wiki/Vladim%C3%ADr_Helfert
+* http://is.muni.cz/th/361629/ff_b/Bakalarska_diplomova_prace.pdf
+* http://is.muni.cz/th/80520/pedf_m/diplomka.pdf
 
 
 5. **Zásadní newebové zdroje:**
