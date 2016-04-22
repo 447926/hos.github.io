@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-O projektu vytváření tohoto webu v několika bodech:
+# O projektu vytváření tohoto webu v několika bodech:
 
 1. **Cílová skupina** by měli být stávající příznivci Helfertova orchestrálního sdružení a dále pak potencionální příznivci noví. Tedy lidé, kteří mají rádi klasickou hudbu a ve svém volném čase by rádi přišli si poslechnout pár kusů v podání tohoto tělesa. Stejně jako HOS ani my nemíříme nijak vysoko, takže cílovou skupinou budou nejspíš především Brňáci.
 
