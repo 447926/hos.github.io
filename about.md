@@ -12,14 +12,23 @@ O projektu vytváření tohoto webu v několika bodech:
 3. **Název webu:** Helfertovo orchestrální sdružení
 
 4. **Zásadní webové zdroje:**
-* http://www.ankst.cz/008/stanovy.aspx
-* http://www.kodk.cz/orchestr/
+5. 
+http://www.ankst.cz/008/stanovy.aspx
+
+http://www.kodk.cz/orchestr/
+
 http://www.ceskesbory.cz/index.php
+
 http://operaplus.cz/z-janackova-odpurce-se-stal-jeho-propagatorem/
+
 http://encyklopedie.brna.cz/home-mmb/?acc=profil_osobnosti&load=100
+
 https://cs.wikipedia.org/wiki/Vladim%C3%ADr_Helfert
+
 http://is.muni.cz/th/361629/ff_b/Bakalarska_diplomova_prace.pdf
+
 http://is.muni.cz/th/80520/pedf_m/diplomka.pdf
+
 
 5. **Zásadní newebové zdroje:**
 PROKOP, Z. *Helfertovo orchestrální sdružení 1906 – 2006.* 1. vyd. Brno: MSD, 2006, 19 s. ISBN 80-86633-49-7.
