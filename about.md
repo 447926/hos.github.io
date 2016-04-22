@@ -40,21 +40,21 @@ Jako web inspirativní, krásný, hezky strukturovaný, velmi zdařilý (a taky 
 Tak vysoko ovšem nemíříme.
 
 8. **MENU** – horní řádek, po najetí myší změní volby barvu a po kliku se vyvolá příslušná stránka nabídky:
-
-* Koncerty
-* Galerie Foto
-* Galerie Video
-* Galerie Audio
-* Publikace
-* Rozhovory
-* Prohlídka koncertních prostor
-* Historie
-* Současnost, O nás
-* Kontakt
+<ul>
+<li>Koncerty</li>
+<li>Galerie Foto</li>
+<li>Galerie Video</li>
+<li>Galerie Audio</li>
+<li>Publikace</li>
+<li>Rozhovory</li>
+<li>Prohlídka koncertních prostor</li>
+<li>Historie</li>
+<li>Současnost, O nás</li>
+<li>Kontakt</li>
+</ul>
 
 9. **Strategie zveřejňování obsahu:** Hlavní náplní webu by mělo být informování o nadcházejících koncertech a o existenci Helfertova orchestrálního sdružení. Neočekáváme nějaký masový fanklub, který by denně hltal informace ze zákulisí, z historie, či příběhy jednolivých členů. To by ani při nejlepší vůli nebylo možné naplnit. Základní je pro nás, aby toto těleso vůbec svůj web mělo. Protože soubor, který nemá svůj web nebo facebookovou stránku, takže ho nelze ani pořádně vygooglovat, jako by v dnešní době neexistoval  vůbec. Důležitá je tedy samotná existence webu. Důležité pak bude zveřejnit nějakou galerii z koncertu s usměvavými posluchači a usměvavými členy sdružení, taky by přišlo vhod pár nějakých uměleckých fotek. Dále pak bude podstatná sekce nadcházejících koncertů, kterou by bylo záhodno propojit s facebookovými událostmi. Dále bychom měli uveřejnit sekci kontakty a sekci, kde by se návštěvník dozvěděl něco z historie.
-10. 
-/*
+
 
 
 
